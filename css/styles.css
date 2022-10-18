@@ -8,22 +8,9 @@ h1 {
     color: green;
 }
 
-p {
-    text-align: center;
-    color: darkgreen;
-}
-
-h2.intro {
-    text-align: center;
-    color: darkblue;
-}
-
-p.intro {
+.intro {
     text-align: center;
     color: blue;
-}
-
-img.intro {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
