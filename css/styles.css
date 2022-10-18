@@ -16,3 +16,7 @@ h1 {
     width: 50%;
     display: block;
 }
+
+.highlight {
+  font-style: italic;
+}
