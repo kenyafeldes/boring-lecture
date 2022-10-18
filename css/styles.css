@@ -1,3 +1,14 @@
-.intro {
+h2.intro {
+    text-align: center;
+    color: darkblue;
+}
 
+p.intro {
+    text-align: center;
+    color: blue;
+}
+
+img.intro {
+    margin-left: auto;
+    margin-right: auto;
 }
